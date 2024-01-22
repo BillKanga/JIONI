@@ -1,0 +1,58 @@
+body{
+    background-color: deepskyblue;
+    text-align: left;
+    /*padding: 25px;*/
+    padding-left: 35px;
+    padding-top: 15px;}
+
+
+    a{text-decoration: none;
+        color: black;
+
+    }
+
+p{
+    color: black;
+}
+/*CLASS ALWAYS STARTS WITH .(DOT) WHEN STYLING*/
+hr{
+    color: whitesmoke;
+}
+
+.one{
+    color: indigo;
+    /*border: darkorange 2px solid;*/
+    text-align: center;
+}
+
+.two{
+    text-align: center;
+    border: indigo 2px solid;
+    color: white;
+    /*padding-left: 2px;*/
+    border-radius: 5px;
+    background-color: indigo;
+
+    height: 5%;
+}
+
+a:hover{
+    color: indigo;
+    font-size: 55px;
+    border-bottom: black 2px solid;
+
+
+}
+
+
+#one1{
+    background-color: cornflowerblue ;
+
+}
+
+
+
+
+
+
+

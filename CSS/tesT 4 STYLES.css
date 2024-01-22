@@ -1,0 +1,36 @@
+body{
+    background-color: wheat;
+    
+}
+
+.a{
+    text-align: center;
+    color: darkgreen;
+    font-size: 35px;
+}
+
+
+.b{
+    text-align: center;
+    font-size: 65px;
+}
+
+.c{
+    color: lightslategray;
+}
+.d{
+    color: darkslategray;
+}
+
+.e{
+    text-align: center;
+    border: darkgreen 7px solid;
+}
+
+
+
+
+
+
+
+
